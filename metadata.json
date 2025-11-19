@@ -1,0 +1,5 @@
+{
+  "name": "Raft Consensus Visualizer",
+  "description": "An interactive, dynamic visualization of the Raft distributed consensus algorithm. Simulate elections, log replication, and node failures. Includes Gemini-powered analysis of cluster states.",
+  "requestFramePermissions": []
+}
